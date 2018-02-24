@@ -16,5 +16,6 @@ So if we go to that ID in the ItemLotParam, we can see that it has this informat
   
  **•getItemFlagId: 52410290**
   
-Now if you notice, the getItemFlagId is the same as ItemLotId01 but with an extra 5 at the beginning. This is normal for most of the items but there are some items that has it different. In that case, we use the getItemFlagId.
+Now if you notice, the getItemFlagId is the same as ItemLotId01 but with an extra 5 at the beginning. This is normal for most of the items but there are some items that has it different. In that case, we use the getItemFlagId but we remove the 5.
 
+Now we use the ID **(2410290)** and we convert it to HEX, which becomes **(24C732)**.
