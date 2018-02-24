@@ -7,6 +7,7 @@ So to make this easier, I will showcase an example.
 
 We will be using the Saw Hunter Badge which its item ID is 4110 (100E).
 So if we go to that ID in the ItemLotParam, we can see that it has this information:
+  
   •ID: 2410290
   •ItemLotId01: 4110
   •ItemLotId02: 0
