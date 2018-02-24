@@ -1,4 +1,4 @@
-# This is my research on how items are placed in maps, and how the MSB files are linked to the ItemLotParam.
+This is my research on how items are placed in maps, and how the MSB files are linked to the ItemLotParam.
 
 First of all, the ItemLotParam contains many information about how items are placed into maps.
 The main columns we will focus on are: ID / ItemLotId01 / ItemLotId02 / getItemFlagId
